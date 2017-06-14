@@ -1,0 +1,43 @@
+body {background-image: url('background.jpg');}
+.blackbox {border: 3px solid black; width:800px; background-color:#FFFFFF;float:left;}
+.blackbox1 {border: 3px solid black; background-color:#FFFFFF;}
+.menubar {background-color:#808080; width:1025px; height:40px; padding:10px; border-color:#808080; margin: 0px auto; clear:both;}
+.menubar2 {background-color:#808080; width:1100px; height:50px; padding:10px; border-color:#808080; clear:both; margin: 5px auto;}
+.menubutton {background-color:#808080;color:#FFFFFF; font-family:verdana; float:left; margin: 3px 10px; padding: 1px 10px;}
+.floatleft {float:left;}
+.content1 {font-family:verdana;color:#FF00FF; background-color:#FFFFFF;border: 3px solid black; width:500px; margin:50px auto;}
+.content2 {font-family:verdana;color:#FF00FF; background-color:#FFFFFF;border: 3px solid black; width:800px; margin:10px 10px;}
+.content3 {font-family:verdana;color:#FF00FF; background-color:#FFFFFF;border: 3px solid black; width:800px; margin:10px auto;}
+.h2box {font-family:verdana;color:#FF00FF; background-color:#FFFFFF;border: 3px solid black; width:400px; margin:5px;}
+.floatright {float:right;}
+p, h2 {text-align:center;}
+a:link {color:white;}
+a:visited {color:pink;}
+a:hover {color:lime;}
+a:active {color:pink;}
+.topgroup {margin:10px auto; width:1500px;}
+#bowmove  {margin:10px auto; width:340px;}
+.clearfloat {clear:both;}
+.caption {background-color:#FFFFFF;}
+.page1div1 {margin-left:auto; margin-right:auto;}
+.center {width:1150px; margin:0px auto;}
+table {background-color:white; font-family:verdana; text-align:center; border-collapse:collapse;}
+.centeronly {margin:0px auto;}
+div {font-family: verdana;}
+.cent {margin:0px auto; width:800px;}
+.centerbar {border: 3px solid black; width:800px; background-color:white; margin:10px auto;}
+.topfix {position:fixed; top:0px; right:auto; background-image: url('background.jpg'); width:1200px;}
+.contentmargin {margin:250px auto;}
+.pictures {margin:10px auto;}
+.picmarg {margin:5px; text-align:center;}
+.blackboxpg {border: 3px solid black; width:800px; background-color:gray;float:left; margin:10px auto;}
+
+.maindiv {border:2px solid black; width:1000px; height:800px; background-color:white; margin:210px auto;}
+.yeardiv {width:70px; height:50px;text-align:center; padding:15px 5px; float:left;}
+.yearopts {float:left; width:95px; height:60px; text-align:left;}
+.quarter {float:left; width:95px; height:60px; text-align:left;padding:15px;}
+.margin {margin:30px; text-align:center;padding:30px;}
+.submit {margin:40px auto;}
+.emb {width:400px; height:200px;}
+.embopts {clear:both; width:195px; height:60px; text-align:left;}
+.inctd {text-align:left;}
